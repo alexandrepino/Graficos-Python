@@ -1,1 +1,1 @@
-# Diversos exemplos de gráficos feitos em Python para fins acadêmicos
+ Diversos exemplos de gráficos feitos em Python para fins acadêmicos
